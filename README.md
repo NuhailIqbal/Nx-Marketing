@@ -1,2 +1,2 @@
 # Nx-Marketing
-Built using n8n
+Built by custom python by calling APIs
